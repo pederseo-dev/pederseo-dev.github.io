@@ -48,7 +48,7 @@ export default function Hero() {
             </div>
           </div>
           <div className="hero__avatar">
-            <img src="https://avatars.githubusercontent.com/u/9919?v=4" alt={dev.name} />
+            <img src="https://lh3.googleusercontent.com/d/1xv01JvrulCPquFnMu4OeQp33oYkhrtUb" alt={dev.name} />
           </div>
         </div>
 

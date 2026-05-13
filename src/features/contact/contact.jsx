@@ -2,7 +2,7 @@
 import { useState } from 'react'
 import './contact.css'
 
-const ENDPOINT = 'https://script.google.com/macros/s/AKfycbwSfCpGAy8T-YAMhv3FCHlDFxYA6XVCcY4j5tJj551RILfIl62F2koXUJeqMmUBrhzc/exec'
+const ENDPOINT = 'https://script.google.com/macros/s/AKfycbzLZG-nLUMa21hrt_gUObVMvJAm4_TRbUnwnQoSWzqzdWBPjSJm8aOtS_2yNkJNIVEG/exec'
 
 
 
